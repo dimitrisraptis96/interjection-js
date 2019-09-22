@@ -1,13 +1,28 @@
 {
   "name": "interjection-js",
   "version": "1.0.0",
-  "description": "",
+  "description": "Generate a random picked interjection",
+  "homepage": "https://github.com/dimitrisraptis96/interjection-js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dimitrisraptis96/interjection-js"
+  },
+  "bugs": {
+    "url": "https://github.com/dimitrisraptis96/interjection-js/issues"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "interjection",
+    "sucecss",
+    "cool"
+  ],
+  "author": {
+    "name": "Raptis Dimitris",
+    "email": "dimitrisraptis96@gmail.com"
+  },
+  "license": "MIT",
   "devDependencies": {}
 }
