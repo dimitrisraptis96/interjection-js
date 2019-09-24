@@ -5,7 +5,7 @@
 
 ## 🎬 Demo
 
-Mess around the [CodeSandbox repo](https://codesandbox.io/embed/interjection-js-jir8c)!
+Mess around with the [CodeSandbox repo](https://codesandbox.io/embed/interjection-js-jir8c)!
 
 <div align="center">
  <img width="100%" src="./assets/demo.gif">
