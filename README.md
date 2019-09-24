@@ -5,11 +5,11 @@
 
 ## 🎬 Demo
 
-<div align="center">
- <img width="60%" src="./assets/demo.gif">
-</div>
-
 Mess around the [CodeSandbox repo](https://codesandbox.io/embed/interjection-js-jir8c)!
+
+<div align="center">
+ <img width="100%" src="./assets/demo.gif">
+</div>
 
 ## 📦 Getting Started
 
