@@ -1,7 +1,7 @@
 {
   "name": "interjection-js",
   "version": "1.0.3",
-  "description": "Generate a random picked interjection",
+  "description": "Generate a random picked triumph interjection",
   "homepage": "https://github.com/dimitrisraptis96/interjection-js",
   "repository": {
     "type": "git",
@@ -16,6 +16,7 @@
   },
   "keywords": [
     "interjection",
+    "interjections",
     "sucecss",
     "cool"
   ],
