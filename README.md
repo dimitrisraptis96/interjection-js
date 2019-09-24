@@ -3,6 +3,12 @@
   <blockquote>Generate random cool interjections</blockquote>
 </div>
 
+## 🎬 Demo
+
+<div align="center">
+ <img width="100%" src="./assets/demo.gif">
+</div>
+
 ## 📦 Getting Started
 
 ```
