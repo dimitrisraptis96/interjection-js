@@ -31,3 +31,14 @@ Mess around with the [CodeSandbox repo](https://codesandbox.io/embed/interjectio
 <div align="center">
  <img width="100%" src="./assets/demo.gif">
 </div>
+
+## 📜 License
+
+[MIT](https://en.wikipedia.org/wiki/MIT_License)
+
+&nbsp;
+
+<p align="center">
+<sub><sup>Made with 🤘 by <a href="https://twitter.com/d__raptis">@d__raptis</a></sup></sub>
+</p>
+
